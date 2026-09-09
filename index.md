@@ -203,4 +203,8 @@
   .site-footer {
     display: none !important;
   }
+  .main-content {
+    max-width: 80% !important;
+    width: 80% !important;
+  }
 </style>
