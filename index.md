@@ -200,4 +200,7 @@
   .page-header {
     display: none !important;
   }
+  .site-footer {
+    display: none !important;
+  }
 </style>
