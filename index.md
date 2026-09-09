@@ -1,7 +1,6 @@
 <head>
   <title>Sistem-Pack — Опыт работы в Logycom («Логиком») | Резюме и Портфолио</title>
   <meta name="description" content="12 лет профессионального опыта в компании Logycom (Логиком). Ключевые проекты, технические навыки, достижения и история карьерного роста в компании Logycom (Логиком).">
-  <meta name="google-site-verification" content="tD_1cS7fU-BctVg5RCK8plmBZwm5UtwVXB3ymqPvfLw" />
 </head>
 
 <style>
