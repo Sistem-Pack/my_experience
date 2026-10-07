@@ -1,5 +1,14 @@
+# Основные настройки сайта
+title: "Logycom / «Логиком»: 12 лет в одной компании"
+description: "Личный опыт работы в компании Логиком: путь от цеха сборки до отдела разработки ПО, разбор корпоративной культуры и процессов управления."
+lang: ru
+locale: ru_RU
+
+# Настройки темы Cayman
 theme: jekyll-theme-cayman
-title: ""
-description: ""
+show_downloads: false
+
+# Плагины
 plugins:
   - jekyll-sitemap
+  - jekyll-seo-tag
