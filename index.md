@@ -1,12 +1,3 @@
-<style>
-  .page-header { display: none !important; }
-  .site-footer { display: none !important; }
-  .main-content {
-    max-width: 80% !important;
-    width: 80% !important;
-  }
-</style>
-
 # Logycom / «Логиком»: 12 лет в одной компании
 
 Этот текст основан на моем личном опыте, воспоминаниях и доступных мне обстоятельствах. Я описываю события так, как видел и воспринимал их сам, не претендуя на официальный юридический анализ деятельности компании.
